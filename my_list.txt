@@ -1,0 +1,7 @@
+"Fox"
+"Falco"
+"Pikachu"
+"Sheik"
+"Yoshi"
+"Captain Falcon"
+"Marth"
